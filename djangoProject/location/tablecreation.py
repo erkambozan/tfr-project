@@ -2,7 +2,7 @@ import sqlite3
 
 
 def create_table():
-    connection = sqlite3.connect('database/school.db')  # file path
+    connection = sqlite3.connect('database/location.db')  # file path
     # create a cursor object from the cursor class
     cur = connection.cursor()
 
