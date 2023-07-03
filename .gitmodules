@@ -1,3 +1,3 @@
 [submodule "map-viewer"]
 	path = map-viewer
-	url = git@github.com:erkambozan/tfr-project.git
+	url = git@github.com:erkambozan/map-viewer.git
